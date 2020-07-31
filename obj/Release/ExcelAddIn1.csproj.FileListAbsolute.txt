@@ -1,0 +1,16 @@
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\bin\Release\ExcelAddIn1.dll.config
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\bin\Release\ExcelAddIn1.dll
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\bin\Release\ExcelAddIn1.pdb
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\bin\Release\ExcelAddIn1.dll.manifest
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\bin\Release\ExcelAddIn1.vsto
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\obj\Release\ExcelAddIn1.csprojAssemblyReference.cache
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\obj\Release\Interop.ADODB.dll
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\obj\Release\Interop.ADOX.dll
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\obj\Release\ExcelAddIn1.csproj.ResolveComReference.cache
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\obj\Release\ExcelAddIn1.Properties.Resources.resources
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\obj\Release\ExcelAddIn1.Ribbon1.resources
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\obj\Release\ExcelAddIn1.csproj.GenerateResource.cache
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\obj\Release\ExcelAddIn1.csproj.CopyComplete
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\obj\Release\ExcelAddIn1.dll
+C:\Users\AndrásJózsef\Desktop\visual studio\ExcelAddIn1\obj\Release\ExcelAddIn1.pdb
